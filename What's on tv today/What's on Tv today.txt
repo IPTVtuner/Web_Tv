@@ -1,0 +1,42 @@
+HERE WE PRINT A LIST OF ALL THE CHANNELS AND THEIR CURRENTLY PLAYING PROGRAMS AND NEXT PROGRAM SHOWING THE TIME,PROG TIMES:
+
+BBC ONE      6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+BBC TWO      6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+ITV2         6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+ITV3         6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+CHANNEL 4    6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+CHANNEL 5    6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+BBC ONE      6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+BBC TWO      6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+ITV2         6:OO AM     Breakfast
+             9:3O am     Morning live
+             10:45 am    Defenders Uk
+
+
+
+
+
